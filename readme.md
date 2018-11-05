@@ -18,22 +18,24 @@
 
 ## Logins
 
-- **Admin Login:- 
+**Admin Login:-**
 - URL: '/admin'
 - Username: developer.pasindujayanath89@gmail.com
-- Password: Admin@123
+- Password: Admin@123  
 
-**(You have to register Instructor and Student first).    
-
-- **Instructor Login:-
+**Instructor Login:-**
 - URL: '/login'
 - Default Password: Instructor@123
 
-- **Student Login:-
+**Student Login:-**
 - URL: '/login'
 - Default Password: Student@123
 
+**(You have to register Instructor/Student first using admin login).**
 
+
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
